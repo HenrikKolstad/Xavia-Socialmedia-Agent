@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.env
+data/posted.json
+data/watermark.json
+data/music_history.json
+data/temp/
+*.log
+assets/*.mp3
